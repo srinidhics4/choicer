@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/bungee_shade</item>
+        <item>@font/inder</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/permanent_marker</item>
+        <item>@font/ubuntu</item>
+        <item>@font/ubuntu_medium</item>
+    </array>
+</resources>
